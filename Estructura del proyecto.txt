@@ -1,0 +1,7 @@
+1.introduccion: machine learning (RNA, deep learning,etc), alcances del proyecto.
+2.Teoria de RNA: RNA, historia, estado del arte, aprendiaje supervisado y no supervisado.
+3.Teoria de Deep learning: topologia del autoencoders (decoders y encoders).
+4.modelo matematico.
+5.codigo, librerias, etc.
+6.Implementacion y evalucion de rendimiento.
+7.conclusion.
