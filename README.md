@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-Recomendador SantaFE
+# Recomendador SantaFE
 
 ## El proyecto 🚀
 
