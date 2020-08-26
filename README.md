@@ -27,14 +27,6 @@ Llegar a la ruta por CMD: D:\SantaFe\Recomendador\Backend\Source
 Ejecutar el comando: "python app.py blanqueo"
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Autor Readme ✒️
 
 * **Michael Fernández** 
